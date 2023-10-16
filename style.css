@@ -1,0 +1,171 @@
+#head{
+    background-image: url(https://github.com/Kalvium-Program/netflix-clone-boilerplate/blob/main/assets/Title-Image.png?raw=true);
+    width: 1440px;
+    height:750px;
+    
+}
+#heading1{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+#upper_text{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    width: 450px;
+    height: 9%;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 60px;
+    color: rgb(255, 255, 255);
+}
+#upper_image{
+    margin-right: 20px;
+    margin-left: 50%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 2px solid red; */
+    width: 11%;
+    height: 7%;
+    
+}
+#search_image{
+    width: 17px;
+    height: 17px;
+}
+#gift_image{
+    width: 17px;
+    height: 17px;
+}
+#bell_image{
+    width: 17px;
+    height: 17px;
+}
+#angrybird{
+    width: 30px;
+    height: 30px;
+}
+#downarr_image{
+    width: 17px;
+    height: 17px;
+}
+#netfliximg{
+    width: 110px;
+    height: 20px;
+}
+#middle_text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* border: 2px solid yellow; */
+    width: 85px;
+    height: 45px;
+    margin-left: 60px;
+    margin-top: 25%;
+}
+#N_image{
+    width: 15px;
+    height: 25px;
+    margin-top: 10px;
+}
+#mid_show{
+    color: white;
+    font-size: 15px;
+}
+#M_name{
+    font-size: 85px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    /* border: 4px solid green; */
+    width: 18%;
+    height: 13%;
+    margin-left: 60px;
+    margin-top: 1px;
+}
+#button{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1px;
+    /* border: 2px solid black; */
+    width: 18%;
+    justify-content: space-between;
+    margin-left: 60px;
+    position: absolute;
+    margin-top: -75px;
+    
+}
+#playbtn{
+    background-color: white;
+    width: 100px;
+    height: 45px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    border-radius: 6%;
+}
+#p_btn{
+    width: 23px;
+    height: 23px;
+    margin-top: 12px;
+}
+#p_text{
+    margin-top: 13px;
+}
+#infobtn{
+    background-color: white;
+    opacity: 0.3;
+    width: 130px;
+    height: 45px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    border-radius: 6%;
+
+}
+#i_btn{
+    width: 23px;
+    height: 23px;
+    margin-top: 12px;
+}
+#i_text{
+    margin-top: 13px;
+    color: black;
+    
+}
+
+#plus_image{
+    margin-left: 95%;
+    width: 30px;
+    height: 30px;
+    background: transparent;
+}
+#arrow_image{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px
+}
+#see{
+    color: white;
+    font-size: 20px;
+}
+#line_mid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* border: 2px solid red; */
+    width: 7%;
+    margin-top: -10px;
+    margin-left: 60px;
+}
+
